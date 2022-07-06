@@ -11,7 +11,7 @@ export const config = {
     aws_media_bucket: "udagram-onosgb-dev",
   },
   jwt: {
-    secret: "",
+    secret: "OPmhNVprkyysSgmBOi6YhSfo",
   },
   prod: {
     username: "",
